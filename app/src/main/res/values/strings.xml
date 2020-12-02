@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recipEZ</string>
+    <string name="enter_a_list_of_ingredients_separated_by_a_comma">Enter a list of ingredients separated by a comma.</string>
+    <string name="find_recipes">Find Recipes!</string>
+    <string name="ingredients_here">Ingredients here...</string>
+    <string name="recipez">recipEZ</string>
+</resources>
